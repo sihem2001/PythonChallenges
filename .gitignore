@@ -1,0 +1,8 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore CSV files
+*.csv
+
+# Ignore images
+*.png
